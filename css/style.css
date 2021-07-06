@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    font-family: sans-serif;
+}
+ul {
+    line-height: 40px;
+}
+body {
+    background-color: indianred;
+    font-size: large;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0%;
+}
+strong {
+    text-emphasis: initial;
+    text-indent: 0cm;
+}
