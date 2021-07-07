@@ -24,3 +24,9 @@ strong {
     text-emphasis: initial;
     text-indent: 0cm;
 }
+.friends li {
+    color: blue;
+}
+#favourites {
+    color: aliceblue;
+}
