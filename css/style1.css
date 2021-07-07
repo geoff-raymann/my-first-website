@@ -13,11 +13,20 @@ ul {
     text-indent: 0em;
 }
 li {
-    border-left-color: aliceblue;
+    border-left-color: aliceblue; 
     
 }
 body {
     background-color: gainsboro;
     text-align: center;
     list-style-position: inside;
+}
+.favourites {
+    color: azure;
+}
+.friends {
+    color: brown;
+}
+#lovee {
+    color: red;
 }
